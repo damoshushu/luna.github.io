@@ -89,7 +89,6 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: false
       related: true
   # _pages
   - scope:
